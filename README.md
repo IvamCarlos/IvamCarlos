@@ -2,7 +2,7 @@
 
 Meu nome é Ivam Carlos, sou Desenvolvedor PHP, Graduado em Análise e Desenvolvimento de Sistemas pelo Instituto Federal de Ciência e Tecnologia de São Paulo – IFSP
 
-Tenho experiência de três anos com desenvolvimento de sistemas web utilizando a linguagem PHP, Nesse tempo atuei desenvolvendo APIs (Micro-serviços), Sistemas de gerenciamento de campanhas promocionais, websites, plataformas de e-commerce, aplicativos mobile, entre outros.
+Tenho experiência de três anos com desenvolvimento de sistemas web utilizando a linguagem PHP, nesse tempo atuei desenvolvendo APIs (Micro-serviços), Sistemas de gerenciamento de campanhas promocionais, websites, plataformas de e-commerce, aplicativos mobile, entre outros.
 
 ## Atualmente atuo com as seguintes tecnologias e ferramentas
 
